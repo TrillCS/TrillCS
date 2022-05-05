@@ -2,7 +2,7 @@
 - 👀 I’m interested in CSGO
 - 🌱 I’m currently learning how to create my own CSGO Network
 - 💞️ I’m looking to collaborate on :)
-- 📫 How to reach me Discord: Trill#1802
+- 📫 How to reach me Discord: Jan<3#1802
 
 <!---
 TrillCS/TrillCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
